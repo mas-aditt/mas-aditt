@@ -2,7 +2,7 @@
 <h3 align="center">Candidate For A Successful Person Who Will Rule The World.</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
-- 🌱 I’m currently learning **Python, Flutter, Node JS, CI4, Laravel, PHP** 
+- 🌱 I’m currently learning **Python, Flutter, JS, CI4, Laravel, PHP** 
 
 - 👨‍💻 You can call me [aditya]()
 
