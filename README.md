@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Aditya;A+passionate+Junior+BackendDev)](https://git.io/typing-svg) 
-<h3 align="center">Aspiring Software Engineer, committed to mastering and excelling in every piece of software I develop.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Aditya;Someone+Who+Like+Money)](https://git.io/typing-svg) 
+<h3 align="center">Candidate For A Successful Person Who Will Rule The World.</h3>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
-- 🌱 I’m currently learning **Python, Flutter, Node JS, CI4, Laravel** 
+- 🌱 I’m currently learning **Python, Flutter, Node JS, CI4, Laravel, PHP** 
 
 - 👨‍💻 You can call me [aditya]()
 
